@@ -1,0 +1,12 @@
+{
+  "name": "ToDoFirebase",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "firebase": "^2.3.2",
+    "react-native": "^0.14.2"
+  }
+}
