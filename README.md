@@ -1,5 +1,5 @@
 # ToDoFirebase
-====================
+
 This is a simple firebase todo app on react-native
 
 This is buit using the tutorial
